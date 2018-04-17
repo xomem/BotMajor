@@ -1,0 +1,21 @@
+c:\users\goncharov_e\documents\visual studio 2015\Projects\Bot\Bot\bin\Debug\Bot.exe.config
+c:\users\goncharov_e\documents\visual studio 2015\Projects\Bot\Bot\bin\Debug\Bot.exe
+c:\users\goncharov_e\documents\visual studio 2015\Projects\Bot\Bot\bin\Debug\Bot.pdb
+c:\users\goncharov_e\documents\visual studio 2015\Projects\Bot\Bot\bin\Debug\Newtonsoft.Json.dll
+c:\users\goncharov_e\documents\visual studio 2015\Projects\Bot\Bot\bin\Debug\Telegram.Bot.dll
+c:\users\goncharov_e\documents\visual studio 2015\Projects\Bot\Bot\bin\Debug\Newtonsoft.Json.xml
+c:\users\goncharov_e\documents\visual studio 2015\Projects\Bot\Bot\bin\Debug\Telegram.Bot.xml
+c:\users\goncharov_e\documents\visual studio 2015\Projects\Bot\Bot\obj\Debug\Bot.csprojResolveAssemblyReference.cache
+c:\users\goncharov_e\documents\visual studio 2015\Projects\Bot\Bot\obj\Debug\Bot.exe
+c:\users\goncharov_e\documents\visual studio 2015\Projects\Bot\Bot\obj\Debug\Bot.pdb
+C:\Users\SOVAJJ\Dropbox\Bot\Bot\bin\Debug\Bot.exe.config
+C:\Users\SOVAJJ\Dropbox\Bot\Bot\bin\Debug\Bot.exe
+C:\Users\SOVAJJ\Dropbox\Bot\Bot\bin\Debug\Bot.pdb
+C:\Users\SOVAJJ\Dropbox\Bot\Bot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SOVAJJ\Dropbox\Bot\Bot\bin\Debug\Telegram.Bot.dll
+C:\Users\SOVAJJ\Dropbox\Bot\Bot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SOVAJJ\Dropbox\Bot\Bot\bin\Debug\Telegram.Bot.xml
+C:\Users\SOVAJJ\Dropbox\Bot\Bot\obj\Debug\Bot.csprojResolveAssemblyReference.cache
+C:\Users\SOVAJJ\Dropbox\Bot\Bot\obj\Debug\Bot.csproj.CoreCompileInputs.cache
+C:\Users\SOVAJJ\Dropbox\Bot\Bot\obj\Debug\Bot.exe
+C:\Users\SOVAJJ\Dropbox\Bot\Bot\obj\Debug\Bot.pdb
